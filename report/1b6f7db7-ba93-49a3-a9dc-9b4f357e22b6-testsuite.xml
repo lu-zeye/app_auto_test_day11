@@ -1,0 +1,66 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1586775652071" stop="1586775652643">
+  <name>test_allure3</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1586775652071" status="passed" stop="1586775652106">
+      <name>Test.test_func1</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="17168-MainThread"/>
+        <label name="host" value="DESKTOP-0T3VRUE"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1586775652186" status="passed" stop="1586775652248">
+      <name>Test.test_func2</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="17168-MainThread"/>
+        <label name="host" value="DESKTOP-0T3VRUE"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1586775652331" status="passed" stop="1586775652364">
+      <name>Test.test_func3</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="17168-MainThread"/>
+        <label name="host" value="DESKTOP-0T3VRUE"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1586775652477" status="passed" stop="1586775652508">
+      <name>Test.test_func4</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="minor"/>
+        <label name="thread" value="17168-MainThread"/>
+        <label name="host" value="DESKTOP-0T3VRUE"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1586775652599" status="passed" stop="1586775652643">
+      <name>Test.test_func5</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="trivial"/>
+        <label name="thread" value="17168-MainThread"/>
+        <label name="host" value="DESKTOP-0T3VRUE"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
